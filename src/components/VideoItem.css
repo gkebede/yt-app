@@ -1,0 +1,12 @@
+.VideoItem-item{
+    display:flex !important;
+    align-items:center;
+    cursor: pointer;
+}
+
+.VideoItem-item.item img{
+max-width: 180px;
+}content
+.VideoItem-item.item content{
+   min-width: 50px;
+    }
